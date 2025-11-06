@@ -19,7 +19,6 @@ Prototype of a **parking gate** that opens when a **PIN** is entered from an **I
 - `docs/Parking_System_Presentation.pdf` – presentation
 - `requirements.md` – required libraries/hardware
 - `.gitignore` – recommended exclusions
-- `LICENSE` – MIT license (you can change it)
 
 ## Quick Requirements
 See **[requirements.md](requirements.md)** for details on libraries and hardware.
@@ -42,14 +41,10 @@ See **[requirements.md](requirements.md)** for details on libraries and hardware
 parking-gate-arduino-en/
 ├─ parking_miniproject.ino
 ├─ requirements.md
-├─ LICENSE
 ├─ .gitignore
 └─ docs/
    └─ Parking_System_Presentation.pdf
 ```
-
-## License
-Released under **MIT**. Replace `YOUR NAME` in `LICENSE` with your name.
 
 ## Note
 This repository is an English-only packaging of the original project: **code unchanged**, documentation translated.
