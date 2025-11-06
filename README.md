@@ -15,7 +15,7 @@ Prototype of a **parking gate** that opens when a **PIN** is entered from an **I
 - (Optional) **ThingSpeak** data upload
 
 ## Main Files
-- `progetto3.ino` – Arduino sketch (left **unchanged** from your original)
+- `parking_miniproject.ino` – Arduino sketch (left **unchanged** from your original)
 - `docs/Parking_System_Presentation.pdf` – presentation
 - `requirements.md` – required libraries/hardware
 - `.gitignore` – recommended exclusions
@@ -31,7 +31,7 @@ See **[requirements.md](requirements.md)** for details on libraries and hardware
 - **Stepper**: A5, A3, A4, A2 (ULN2003)
 
 ## How to Use
-1. Open `progetto3.ino` with **Arduino IDE**
+1. Open `parking_miniproject.ino` with **Arduino IDE**
 2. Install the libraries listed in `requirements.md`
 3. Choose the correct **Board** (Arduino UNO *or* ESP32/ESP8266 if you use WiFi)
 4. If you want ThingSpeak, insert your **SSID/password** and **API key** where indicated in the code
@@ -40,7 +40,7 @@ See **[requirements.md](requirements.md)** for details on libraries and hardware
 ## Repository Structure
 ```
 parking-gate-arduino-en/
-├─ progetto3.ino
+├─ parking_miniproject.ino
 ├─ requirements.md
 ├─ LICENSE
 ├─ .gitignore
